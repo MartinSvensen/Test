@@ -1,5 +1,6 @@
 nav ul li {
   float: left;
+  list-style-type: none;
 }
 
 a {
