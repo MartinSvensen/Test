@@ -6,3 +6,8 @@ nav ul li {
 a {
   text-decoration: none;
 }
+
+.wrapper {
+  width: 70%
+  margin: 0 auto;
+}
